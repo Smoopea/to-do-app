@@ -1,0 +1,32 @@
+body {
+	background-color: lightyellow;
+	color: #7E200DFF;
+	}
+input {
+	outline: none;
+}
+#createButton {
+	border: none;
+	background-color: #7E200dFF;
+	color: lightyellow;
+	height: 35px;
+	width: 95px;
+	margin-left: -4px;
+	text-align: center;
+}
+
+#ourField {
+	box-sizing: border-box;
+	height: 35px;
+	border: 2px solid #7E200dFF;
+	margin-right: 0px;
+	width: 150px;
+	padding-left: 5px;
+}
+
+#task {
+	border:none; 
+	background-color:lightyellow; 
+	color:#7E200dFF; 
+	font-size:20px;
+}
