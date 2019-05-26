@@ -33,4 +33,6 @@ function createItem(x) {
 
 function deleteItem(elementToDelete) {
 	elementToDelete.parentElement.remove()
-}	
+}
+
+//adding a comment for fun
