@@ -30,3 +30,7 @@ input {
 	color:#7E200dFF; 
 	font-size:20px;
 }
+button:active {
+	text-decoration: line-through;
+	background-color: #green;
+}
